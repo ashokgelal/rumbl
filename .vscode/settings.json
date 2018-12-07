@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/node_modules/": true,
+    "**/vendor/": true,
+    "**/static/": true,
+    "**/package.json": true,
+    "**/.babelrc": true,
+    "**/webpack.config.js": true,
+    "_build/": true,
+    ".elixir_ls/": true,
+    ".vscode/": true,
+    "deps/": true,
+    "**/gettext/": true,
+    "test/": true,
+    "mix.lock": true,
+    "README.md": true
+  }
+}
